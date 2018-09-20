@@ -1,6 +1,4 @@
 # HelloWorld3
 Just an intro
-
-Jeg heter Sondre og liker aa programmere!
-
+Java suger ift ELastos
 Og naa kan jeg GitHub ogsaa!!
