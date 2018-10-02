@@ -5,3 +5,6 @@ slettet litt her
 Og naa kan jeg GitHub ogsaa!!
 
 Ekstra greier her...
+
+
+Ny branch her, med mye fett...
